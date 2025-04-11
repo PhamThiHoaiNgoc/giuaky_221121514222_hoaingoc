@@ -1,0 +1,33 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+
+    <!-- Màu nền ActionBar -->
+    <!--            <style name="Theme.BaiTap" parent="Theme.MaterialComponents.Light.DarkActionBar">-->
+    <!-- Màu Status Bar -->
+    <!-- Màu nền Action Bar -->
+
+    <!--                <item name="colorPrimary">#4CAF50</item>-->
+    <!--                <item name="colorOnPrimary">#FFFFFF</item> &lt;!&ndash; Chữ màu trắng &ndash;&gt;-->
+
+    <!-- Đảm bảo nền áp dụng đúng -->
+
+    <!--            </style>-->
+    <!-- Base application theme. -->
+    <!--        <style name="Theme.BaiTap" parent="Theme.MaterialComponents.Light.DarkActionBar">-->
+    <!--            <item name="colorPrimary">#4CAF50</item>-->
+    <!--            <item name="colorOnPrimary">#FFFFFF</item> &lt;!&ndash; Chữ màu trắng &ndash;&gt;-->
+    <!--            <item name="colorPrimaryVariant">#388E3C</item> &lt;!&ndash; Xanh lá đậm &ndash;&gt;-->
+    <!--            &lt;!&ndash; Màu status bar &ndash;&gt;-->
+    <!--           &lt;!&ndash; Đảm bảo chữ trên status bar là màu trắng &ndash;&gt;-->
+    <!--        </style>-->
+
+
+    <style name="Theme.BaiTap.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.BaiTap.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.BaiTap.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

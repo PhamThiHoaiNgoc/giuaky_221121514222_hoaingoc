@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+
+<!--    <style name="Theme.BaiTap" parent="Theme.MaterialComponents.Light.DarkActionBar">-->
+<!--        &lt;!&ndash; Màu Status Bar &ndash;&gt;-->
+
+
+<!--        &lt;!&ndash; Màu nền Action Bar &ndash;&gt;-->
+<!--        <item name="colorPrimary">#4CAF50</item>-->
+<!--        <item name="colorOnPrimary">#FFFFFF</item>-->
+<!--            </style>-->
+
+</resources>

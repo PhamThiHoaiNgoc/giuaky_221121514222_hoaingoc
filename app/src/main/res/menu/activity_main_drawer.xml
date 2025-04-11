@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_b1"
+            android:icon="@drawable/pokemon"
+            android:title="Day1_Layout" />
+        <item
+            android:id="@+id/nav_b2"
+            android:icon="@drawable/calculator"
+            android:title="Day1_LinearLayout" />
+        <item
+            android:id="@+id/nav_b3"
+            android:icon="@drawable/login"
+            android:title="Day2_Activity" />
+        <item
+            android:id="@+id/nav_b4"
+            android:icon="@drawable/call"
+            android:title="Day2_Listview_advanced" />
+        <item
+            android:id="@+id/nav_b5"
+            android:icon="@drawable/contact"
+            android:title="Day2_Listview" />
+        <item
+            android:id="@+id/nav_b6"
+            android:icon="@drawable/news"
+            android:title="Day3_Network_Basic" />
+        <item
+            android:id="@+id/nav_b7"
+            android:icon="@drawable/recyclerview"
+            android:title="Day3_Network_RecyclerView" />
+        <item
+            android:id="@+id/nav_b8"
+            android:icon="@drawable/weather"
+            android:title="Day3_Network_Weather" />
+    </group>
+</menu>
